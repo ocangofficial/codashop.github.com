@@ -1,3 +1,3 @@
-#codashop.github.com.io
+codashop.github.com
 
 
